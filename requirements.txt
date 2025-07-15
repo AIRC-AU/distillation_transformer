@@ -1,0 +1,8 @@
+torch>=1.10
+torchtext>=0.11
+tqdm
+flask
+nltk
+jieba
+zhconv
+tensorboard 
